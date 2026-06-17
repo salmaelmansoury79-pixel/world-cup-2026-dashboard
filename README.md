@@ -19,4 +19,4 @@ This project builds a full ETL (Extract, Transform, Load) pipeline that fetches 
 - `requirements.txt` : List of required Python libraries for deployment.
 
 ## 🔗 Live Demo
-👉 [Insert your Streamlit Link Here after deployment]
+👉 [https://world-cup-2026-dashboard-yrkdrvb2vzly4vufjdveoa.streamlit.app/]
